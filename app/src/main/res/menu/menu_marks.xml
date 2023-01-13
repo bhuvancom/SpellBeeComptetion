@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_all"
+        android:title="@string/show_all_students" />
+    <item
+        android:id="@+id/menu_80"
+        android:title="@string/student_with_more_than_80_in_english" />
+    <item
+        android:id="@+id/menu_class9"
+        android:title="@string/all_student_from_class_ix" />
+    <item
+        android:id="@+id/menu_class10"
+        android:title="@string/all_student_from_class_x" />
+
+    <item
+        android:id="@+id/menu_less30"
+        android:title="@string/student_with_more_than_30_in_english" />
+
+</menu>

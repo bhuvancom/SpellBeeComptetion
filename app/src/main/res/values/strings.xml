@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpellBeeCompetition</string>
+    <string name="menu_sc_mohit">Designed by Indra Sena Reddy</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="reg_no">Roll no</string>
+    <string name="avg_60_pec" />
+    <string name="attndnc">Marks % in english</string>
+    <string name="class_in">Class in</string>
+    <string name="ix">IX</string>
+    <string name="x">X</string>
+    <string name="show_all_students">All Students</string>
+    <string name="student_with_more_than_80_in_english">Students with more than 80% in english</string>
+    <string name="all_student_from_class_ix">Students of class IX</string>
+    <string name="all_student_from_class_x">Students of class X</string>
+    <string name="student_with_more_than_30_in_english">Students with less than 30% in english</string>
+
+</resources>
